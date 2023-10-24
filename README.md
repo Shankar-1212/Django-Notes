@@ -1,6 +1,6 @@
 ## Django Notes App
 
-### This is a Django-based Notes Application that utilizes the GPT API for generating text content. The application is deployed on an Amazon EC2 instance with Nginx serving the web application, accessible at http://13.233.127.144/.
+### This is a Django-based Notes Application that utilizes the GPT API for generating text content. The application is deployed on an Amazon EC2 instance with Nginx serving the web application, accessible at 'http://13.233.127.144/'.
 
 
 ## Installation 
