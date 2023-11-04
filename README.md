@@ -7,7 +7,7 @@
 
 Clone the repository:
 ```
-git clone https://github.com/your/repo.git
+git clone https://github.com/Shankar-1212/Django-Notes.git
 ```
 Install the required dependencies:
 ```
